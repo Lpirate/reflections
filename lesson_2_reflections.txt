@@ -10,3 +10,8 @@ Staging area is not a directory, it just record some status that waiting to be c
 Staging area is changes waiting to be commit, so we can think over before we commit a repository.
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Even if you change many files to fix many bugs, you can still commit those file that you changed to help you fix one bug to staging area and then commit it without to commit other file or change other file. That means even you have fixed many bugs at a short time if those bugs are in different files, you can still commit them separately and logically.
+
+

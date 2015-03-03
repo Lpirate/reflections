@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It is easy to see something you changed, such as lines that you delete or added.That will help you figure out what's going on, and find a way to deal with the problem.And it is easy for you to undo the change to go back to the state that noerror was introduced, to find out what cause the bug.
+
+How could having easy access to the entire history of a file make your a more effient programmer in the long term?
+
+Our memory is not that good to rember litter thing in the long time. As time gose by, we will forget our origin purpose or degsin if we don't use it or save it.If we can acess to the entire history of a file then we can konw some thing that we have accomplished in the old days, and that will help us to do things better in the future. It can help us to roll back to the right version if there is something wrong with the current version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+If you manually choosing to commit, you may have a logical reson, so your commit seems in order. But what if there is some thing wrong with your computer before you save your change, so you work has lost.
+If you let it automatically saved, you can worry less about the accident. But you may find that was hard to figure out what diff between files, there is no logical order and no reson why we commit it.
+
+Why do you think some version control system, like Git, allow saving multiple files in one commit, while others, like Google docs, treat each file seprately?
+
+Git control the promgram which often related to lots of files at one time. But Google docs often deal with the document that has no relationship between different files. So it was the case.
+
+
+How can you use the command git log and git diff to view the history of files?
+
+You can use git log to find the id of all git commit and then use git diff fistid secondid to compare the difference between the two commit and changes been made to build second commit.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Git can help us go back to history version to run it to check form what time it was wrong and help us find out where was wrong. And then we can fix it.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I will use git for my java and C++ project, to see it's beauty.
+
+

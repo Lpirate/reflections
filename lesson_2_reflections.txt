@@ -21,3 +21,8 @@ When you want to try something new but don't want to break the orignal one. Or y
 Branches can keep your orignal edition and let you change things in different way without lost yourself.
 
 
+How do the diagrams help you visualize the branch structure?
+
+We can see it's envolve clear using diagrams, it will help us understand the structrue.
+
+

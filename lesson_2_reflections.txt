@@ -26,3 +26,13 @@ How do the diagrams help you visualize the branch structure?
 We can see it's envolve clear using diagrams, it will help us understand the structrue.
 
 
+What is the result of merging two branches together?Why do we represent it in the diagram the way we do?
+
+Two branches changes will merged, such as new feature and bug fix.Use diagram we can clearly see what happened to our branch, we can figure out who did what.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Most time automatic merging is fine and it will help us a lot.But sometimes it may introduce conflics or bugs.So we merge it manually, it will do good job.But we are too lazy to do that.
+
+

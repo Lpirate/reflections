@@ -15,3 +15,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 Even if you change many files to fix many bugs, you can still commit those file that you changed to help you fix one bug to staging area and then commit it without to commit other file or change other file. That means even you have fixed many bugs at a short time if those bugs are in different files, you can still commit them separately and logically.
 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to try something new but don't want to break the orignal one. Or you are working with other people to fix different bugs.
+Branches can keep your orignal edition and let you change things in different way without lost yourself.
+
+

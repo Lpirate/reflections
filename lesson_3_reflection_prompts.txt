@@ -7,3 +7,12 @@ Why might you always pull changes manually rather than having Git automatically 
 
 I can choose what I want to pull.
 
+
+Describe the differences between forks, clones and branches.When would you use one instead of another?
+
+Forks is copy others code online. 
+Clones is copy the code on web to your computer.The code can be yours or others.
+Branches is different direction of the code.
+When refers to other's code, I will use forks.When I need the code storeged in my computer I will use clones.When code goes to direction or working with others, I will use branches.
+
+

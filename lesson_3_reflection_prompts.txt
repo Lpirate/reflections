@@ -16,3 +16,7 @@ Branches is different direction of the code.
 When refers to other's code, I will use forks.When I need the code storeged in my computer I will use clones.When code goes to direction or working with others, I will use branches.
 
 
+What is the benifit of having a copy of the last known state of the remote stored locally?
+
+It will help you to see you offline effort compared with the online effort.
+

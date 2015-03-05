@@ -20,3 +20,9 @@ What is the benifit of having a copy of the last known state of the remote store
 
 It will help you to see you offline effort compared with the online effort.
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I will use email or other tool to comunicate with others. That will be hard to tell the difference or collaborate. Meet will be hard.
+
+

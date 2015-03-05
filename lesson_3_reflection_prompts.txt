@@ -26,3 +26,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I will use email or other tool to comunicate with others. That will be hard to tell the difference or collaborate. Meet will be hard.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Add different feature in the same time or bug fix.
+If you only have master branch, it is easy for you to focus on code.But you can't add some other thoughts.
+If you have other branches besides master you may feel hard to combine them. But you can do things in the same time.
+
+
